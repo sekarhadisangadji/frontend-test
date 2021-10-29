@@ -1,0 +1,13 @@
+{
+    "name": "hadisangadji/frontend-test",
+    "description": "niagahoster-test-fullstack",
+    "authors": [
+        {
+            "name": "hadi sangadji",
+            "email": "sekarhadisangadjii@gmail.com"
+        }
+    ],
+    "require": {
+        "miladrahimi/phprouter": "5.*"
+    }
+}
